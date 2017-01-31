@@ -1,0 +1,15 @@
+{
+  "name": "electron-api-docs-translation",
+  "version": "1.0.0",
+  "description": "Experimenting with translating Electron's API documentation to different languages",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/electron-api-docs-translation",
+  "author": "zeke",
+  "license": "MIT",
+  "dependencies": {
+    "electron-api-docs": "^1.4.15",
+    "flat": "^2.0.1",
+    "lodash": "^4.17.4",
+    "sentence-tokenizer": "^0.0.7"
+  }
+}
